@@ -12277,23 +12277,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FamiliaLezcano\\.nuget\\packages\\": {},
+    "C:\\Users\\Elías\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FamiliaLezcano\\source\\repos\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Elías\\Box Sync\\CIT 365\\Week 9\\MegaDesk-web\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj",
       "projectName": "MegaDeskWeb",
-      "projectPath": "C:\\Users\\FamiliaLezcano\\source\\repos\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj",
-      "packagesPath": "C:\\Users\\FamiliaLezcano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FamiliaLezcano\\source\\repos\\MegaDeskWeb\\MegaDeskWeb\\obj\\",
+      "projectPath": "C:\\Users\\Elías\\Box Sync\\CIT 365\\Week 9\\MegaDesk-web\\MegaDeskWeb\\MegaDeskWeb\\MegaDeskWeb.csproj",
+      "packagesPath": "C:\\Users\\Elías\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elías\\Box Sync\\CIT 365\\Week 9\\MegaDesk-web\\MegaDeskWeb\\MegaDeskWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\FamiliaLezcano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elías\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -34,3 +34,39 @@ C:\Users\FamiliaLezcano\source\repos\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreap
 C:\Users\FamiliaLezcano\source\repos\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Delete.g.cshtml.cs
 C:\Users\FamiliaLezcano\source\repos\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Details.g.cshtml.cs
 C:\Users\FamiliaLezcano\source\repos\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Edit.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\bin\Debug\netcoreapp2.1\MegaDeskWeb.deps.json
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\bin\Debug\netcoreapp2.1\MegaDeskWeb.runtimeconfig.json
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\bin\Debug\netcoreapp2.1\MegaDeskWeb.runtimeconfig.dev.json
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\bin\Debug\netcoreapp2.1\MegaDeskWeb.dll
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\bin\Debug\netcoreapp2.1\MegaDeskWeb.pdb
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\bin\Debug\netcoreapp2.1\MegaDeskWeb.Views.dll
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\bin\Debug\netcoreapp2.1\MegaDeskWeb.Views.pdb
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.csprojAssemblyReference.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.csproj.CoreCompileInputs.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.RazorAssemblyInfo.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.RazorAssemblyInfo.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.AssemblyInfoInputs.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.AssemblyInfo.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.TagHelpers.input.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.TagHelpers.output.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.RazorCoreGenerate.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Create.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Delete.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Details.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Edit.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.Views.pdb
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.dll
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.pdb
+C:\Users\Elías\Box Sync\CIT 365\Week 9\MegaDesk-web\MegaDeskWeb\MegaDeskWeb\obj\Debug\netcoreapp2.1\MegaDeskWeb.csproj.CopyComplete
